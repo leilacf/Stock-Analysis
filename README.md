@@ -9,6 +9,7 @@ Utilizing VBA to analyze stocks
   # 2. Results
   ## Analysis Description
  
+  ![This is an image](https://github.com/leilacf/Stock-Analysis/blob/main/Original%20run%20time%202017.PNG)
   
   
   # 3. Summary
