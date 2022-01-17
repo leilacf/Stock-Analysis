@@ -31,4 +31,18 @@ Utilizing VBA to analyze stocks
   
   # 3. Summary
   ## Advantages and Disadvantages
-  ewrew
+ ###### Advantages and disadvantages of refactoring code
+ Advantages:
+ - Refactoring can lead to a simplified way of re-utilizing code in a cleaner and more organized way
+ - It can be less time consuming when delving into a new project
+ - Can increase the transparency and scalability of a project
+ - Can create increased general understanding when applied to various projects led by different individuals
+ - In being able to restructure existing code, modernizing of systems and software can be facilitated
+
+Disadvantages:
+- Due to the nature of refactoring, if the code did not have comments or an organized system, it could lead to more confusion or loss for the user
+- Increased chance of running into "errors", and therefore, making a project too time consuming
+- Could reduce the maintainability of code and increase complexities 
+
+###### Applying advantages and disadvantages to this analysis
+In this analysis, there is quite an evident advantage shown with the execution time of the code. When using the refactored code, the analysis was done more rapidly using both the 2017 and 2018 data. Additionally, because we were able to use refactored portions of our code, the project became less time consuming. However, in terms of the disadvantages, I can imagine how it could have led to increased erros if the code had been copied wrong, or misused/misinterpreted--resulting in more challenges. In conclusion, utilizing refactored code in this project was beneficial.
